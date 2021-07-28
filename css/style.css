@@ -1,0 +1,7 @@
+body{
+    margin: auto;
+    padding: auto;
+}
+.carousel-item img{
+    width: 50%;
+}
